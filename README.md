@@ -14,6 +14,7 @@ A curated list of awesome AGI frameworks, software, and resources.
     - [OpenAGI](#openagi)
     - [ai-legion](#ai-legion)
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
+    - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
   - [Tutorials and Guides](#tutorials-and-guides)
 
@@ -57,6 +58,10 @@ A curated list of awesome AGI frameworks, software, and resources.
 ---
 
 ## Papers, Courses and Lectures
+
+### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
+
+An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
 ## Websites and Blogs
 
