@@ -1,11 +1,11 @@
-# Awesome AGI Resources
+# Awesome AGI Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 A curated list of awesome AGI frameworks, software, and resources.
 
 ## What is AGI?
 > Artificial General Intelligence (AGI) refers to advanced AI systems that exhibit human-like cognitive abilities across various tasks and domains. Unlike narrow AI, which excels in specific tasks, AGI aims to encompass learning, reasoning, problem-solving, perception, and natural language understanding. Although AGI remains an ambitious goal, its pursuit has led to numerous AI advancements. The development of AGI holds the potential to revolutionize industries such as healthcare, finance, transportation, and education, while also raising ethical, safety, and societal concerns that must be carefully addressed.
 
-- [Awesome AGI Resources](#awesome-agi-resources)
+- [Awesome AGI Resources ](#awesome-agi-resources-)
   - [What is AGI?](#what-is-agi)
   - [Frameworks and Platforms](#frameworks-and-platforms)
     - [Auto-GPT](#auto-gpt)
