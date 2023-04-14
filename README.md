@@ -14,6 +14,7 @@ A curated list of awesome AGI frameworks, software, and resources.
     - [OpenAGI](#openagi)
     - [ai-legion](#ai-legion)
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
+    - [Generative Agents: Interactive Simulacra of Human Behavior](#generative-agents-interactive-simulacra-of-human-behavior)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
@@ -59,6 +60,10 @@ A curated list of awesome AGI frameworks, software, and resources.
 ---
 
 ## Papers, Courses and Lectures
+
+### Generative Agents: Interactive Simulacra of Human Behavior
+
+[paper](https://arxiv.org/abs/2304.03442)
 
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
