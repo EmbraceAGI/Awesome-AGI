@@ -16,6 +16,7 @@ A curated list of awesome AGI frameworks, software, and resources.
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
+    - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
   - [Tutorials and Guides](#tutorials-and-guides)
 
 
@@ -64,5 +65,11 @@ A curated list of awesome AGI frameworks, software, and resources.
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
 ## Websites and Blogs
+
+### [The Marketplace for AI Agents](https://www.dataleap.xyz/)
+
+Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy
+
+![market](imgs/market_for_ai_agents.jpg)
 
 ## Tutorials and Guides
