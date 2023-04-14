@@ -2,6 +2,11 @@
 
 A curated list of awesome AGI frameworks, software, and resources.
 
+Mirrors:
+
+[![GitHub repo](https://img.shields.io/badge/repo-AwesomeAGI-brightgreen.svg?logo=github)](https://github.com/yzfly/Awesome-AGI)
+[![GitLab repo](https://img.shields.io/badge/repo-AwesomeAGI-orange.svg?logo=gitlab)](https://gitlab.com/awesomeai/Awesome-AGI)
+
 ## What is AGI?
 > Artificial General Intelligence (AGI) refers to advanced AI systems that exhibit human-like cognitive abilities across various tasks and domains. Unlike narrow AI, which excels in specific tasks, AGI aims to encompass learning, reasoning, problem-solving, perception, and natural language understanding. Although AGI remains an ambitious goal, its pursuit has led to numerous AI advancements. The development of AGI holds the potential to revolutionize industries such as healthcare, finance, transportation, and education, while also raising ethical, safety, and societal concerns that must be carefully addressed.
 
@@ -14,7 +19,7 @@ A curated list of awesome AGI frameworks, software, and resources.
     - [OpenAGI](#openagi)
     - [ai-legion](#ai-legion)
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
-    - [Generative Agents: Interactive Simulacra of Human Behavior](#generative-agents-interactive-simulacra-of-human-behavior)
+    - [Papers](#papers)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
@@ -61,9 +66,8 @@ A curated list of awesome AGI frameworks, software, and resources.
 
 ## Papers, Courses and Lectures
 
-### Generative Agents: Interactive Simulacra of Human Behavior
-
-[paper](https://arxiv.org/abs/2304.03442)
+### Papers
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
