@@ -7,6 +7,8 @@ Mirrors:
 [![GitHub repo](https://img.shields.io/badge/repo-AwesomeAGI-brightgreen.svg?logo=github)](https://github.com/yzfly/Awesome-AGI)
 [![GitLab repo](https://img.shields.io/badge/repo-AwesomeAGI-orange.svg?logo=gitlab)](https://gitlab.com/awesomeai/Awesome-AGI)
 
+Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh) 🔥
+
 ## What is AGI?
 > Artificial General Intelligence (AGI) refers to advanced AI systems that exhibit human-like cognitive abilities across various tasks and domains. Unlike narrow AI, which excels in specific tasks, AGI aims to encompass learning, reasoning, problem-solving, perception, and natural language understanding. Although AGI remains an ambitious goal, its pursuit has led to numerous AI advancements. The development of AGI holds the potential to revolutionize industries such as healthcare, finance, transportation, and education, while also raising ethical, safety, and societal concerns that must be carefully addressed.
 
