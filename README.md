@@ -24,8 +24,8 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
     - [Papers](#papers)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
+    - [Generative Agents](#generative-agents)
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
-    - [generative agents](#generative-agents)
   - [Tutorials and Guides](#tutorials-and-guides)
 
 
@@ -78,13 +78,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## Websites and Blogs
 
-### [The Marketplace for AI Agents](https://www.dataleap.xyz/)
-
-Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy
-
-![market](imgs/market_for_ai_agents.jpg)
-
-### [generative agents](https://reverie.herokuapp.com/arXiv_Demo/)
+### [Generative Agents](https://reverie.herokuapp.com/arXiv_Demo/)
 
 Westworld lured millions of us into a fantasy of human-like robots in a Wild West-themed world.
 
@@ -97,5 +91,11 @@ Stanford/Google researchers just told us how they used AI to make "generative ag
 * [Twitter](https://twitter.com/nonmayorpete/status/1645355224029356032?s=20)
 
 ![generative agents](imgs/gen_agents_diagram_1.jpg)
+
+### [The Marketplace for AI Agents](https://www.dataleap.xyz/)
+
+Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy
+
+![market](imgs/market_for_ai_agents.jpg)
 
 ## Tutorials and Guides
