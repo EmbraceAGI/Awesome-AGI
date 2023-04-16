@@ -96,5 +96,6 @@ Stanford/Google researchers just told us how they used AI to make "generative ag
 * [Paper](https://arxiv.org/abs/2304.03442)
 * [Twitter](https://twitter.com/nonmayorpete/status/1645355224029356032?s=20)
 
+![generative agents](imgs/gen_agents_diagram_1.jpg)
 
 ## Tutorials and Guides
