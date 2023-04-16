@@ -20,6 +20,7 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
     - [babyagi](#babyagi)
     - [AgentGPT](#agentgpt)
     - [ai-legion](#ai-legion)
+    - [JARVIS](#jarvis)
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
     - [Papers](#papers)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
@@ -67,10 +68,17 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 
 ---
 
+### [JARVIS](https://github.com/microsoft/JARVIS)
+
+**JARVIS, a system to connect LLMs with ML community.**
+
+---
+
 ## Papers, Courses and Lectures
 
 ### Papers
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
