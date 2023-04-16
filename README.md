@@ -25,6 +25,7 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
     - [Papers](#papers)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
+    - [Online Demo (在线试用)](#online-demo-在线试用)
     - [Generative Agents](#generative-agents)
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
   - [Tutorials and Guides](#tutorials-and-guides)
@@ -79,12 +80,20 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 ### Papers
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+- [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)
 
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
 ## Websites and Blogs
+
+### Online Demo (在线试用)
+Easily try Auto-GPT online using the following websites:
+
+* https://www.cognosys.ai/
+* https://godmode.space/
+* https://agentgpt.reworkd.ai/
 
 ### [Generative Agents](https://reverie.herokuapp.com/arXiv_Demo/)
 
