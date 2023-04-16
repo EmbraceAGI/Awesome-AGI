@@ -16,15 +16,16 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
   - [What is AGI?](#what-is-agi)
   - [Frameworks and Platforms](#frameworks-and-platforms)
     - [Auto-GPT](#auto-gpt)
+    - [OpenAGI](#openagi)
     - [babyagi](#babyagi)
     - [AgentGPT](#agentgpt)
-    - [OpenAGI](#openagi)
     - [ai-legion](#ai-legion)
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
     - [Papers](#papers)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
   - [Websites and Blogs](#websites-and-blogs)
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
+    - [generative agents](#generative-agents)
   - [Tutorials and Guides](#tutorials-and-guides)
 
 
@@ -35,6 +36,12 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 ### [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 
 **An experimental open-source attempt to make GPT-4 fully autonomous.**
+
+---
+
+### [OpenAGI](https://github.com/agiresearch/OpenAGI)
+
+**When LLM (Large Language Models) Meets Domain Experts.**
 
 ---
 
@@ -51,12 +58,6 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 ### [AgentGPT](https://github.com/reworkd/AgentGPT)
 
 **Assemble, configure, and deploy autonomous AI Agents in your browser.**
-
----
-
-### [OpenAGI](https://github.com/agiresearch/OpenAGI)
-
-**When LLM (Large Language Models) Meets Domain Experts.**
 
 ---
 
@@ -82,5 +83,18 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy
 
 ![market](imgs/market_for_ai_agents.jpg)
+
+### [generative agents](https://reverie.herokuapp.com/arXiv_Demo/)
+
+Westworld lured millions of us into a fantasy of human-like robots in a Wild West-themed world.
+
+Could it be real one day?
+
+Stanford/Google researchers just told us how they used AI to make "generative agents".
+
+* [Demo](https://reverie.herokuapp.com/arXiv_Demo/)
+* [Paper](https://arxiv.org/abs/2304.03442)
+* [Twitter](https://twitter.com/nonmayorpete/status/1645355224029356032?s=20)
+
 
 ## Tutorials and Guides
