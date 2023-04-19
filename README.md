@@ -29,13 +29,15 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 
 |Name|Stars|Introduction| Notes |
 -|-|-|-
-|[Auto-GPT](https://github.com/Torantulino/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
+|[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
+|[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|Plugins for Auto-GPT.|-|
 |[AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)|Assemble, configure, and deploy autonomous AI Agents in your browser.|-|
 |[JARVIS](https://github.com/microsoft/JARVIS)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)|A system to connect LLMs with ML community.|-|
 |[babyagi](https://github.com/yoheinakajima/babyagi)|![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)|Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.|[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)|
 |[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)|When LLM (Large Language Models) Meets Domain Experts.|-|
 |[AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)|![GitHub Repo stars](https://img.shields.io/github/stars/zabirauf/AutoGPT.js?style=social)|Auto-GPT on the browser.|-|
 |[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
+|[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
 
 
 
