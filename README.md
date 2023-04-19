@@ -15,12 +15,6 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 - [Awesome AGI Resources ](#awesome-agi-resources-)
   - [What is AGI?](#what-is-agi)
   - [Frameworks and Platforms](#frameworks-and-platforms)
-    - [Auto-GPT](#auto-gpt)
-    - [OpenAGI](#openagi)
-    - [babyagi](#babyagi)
-    - [AgentGPT](#agentgpt)
-    - [ai-legion](#ai-legion)
-    - [JARVIS](#jarvis)
   - [Papers, Courses and Lectures](#papers-courses-and-lectures)
     - [Papers](#papers)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
@@ -33,47 +27,18 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 
 ## Frameworks and Platforms
 
----
+|Name|Stars|Introduction| Notes |
+-|-|-|-
+|[Auto-GPT](https://github.com/Torantulino/Auto-GPT) |![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
+|[AgentGPT](https://github.com/reworkd/AgentGPT) |![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)|Assemble, configure, and deploy autonomous AI Agents in your browser.|-|
+|[JARVIS](https://github.com/microsoft/JARVIS)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)|A system to connect LLMs with ML community.|-|
+|[babyagi](https://github.com/yoheinakajima/babyagi)|![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)|Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.|[中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)|
+|[OpenAGI](https://github.com/agiresearch/OpenAGI) |![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)|When LLM (Large Language Models) Meets Domain Experts.|-|
+|[AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)|![GitHub Repo stars](https://img.shields.io/github/stars/zabirauf/AutoGPT.js?style=social)|Auto-GPT on the browser.|-|
+|[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
 
-### [Auto-GPT](https://github.com/Torantulino/Auto-GPT)
 
-**An experimental open-source attempt to make GPT-4 fully autonomous.**
 
----
-
-### [OpenAGI](https://github.com/agiresearch/OpenAGI)
-
-**When LLM (Large Language Models) Meets Domain Experts.**
-
----
-
-### [babyagi](https://github.com/yoheinakajima/babyagi)
-
-**Use OpenAI and Pinecone APIs to create, prioritize, and execute tasks.**
-
-- [中文博客-babyagi: 人工智能任务管理系统](https://juejin.cn/post/7218815501433946173)
-
-![babyagi](imgs/babyagi.jpg)
-
----
-
-### [AgentGPT](https://github.com/reworkd/AgentGPT)
-
-**Assemble, configure, and deploy autonomous AI Agents in your browser.**
-
----
-
-### [ai-legion](https://github.com/eumemic/ai-legion)
-
-**An LLM-powered autonomous agent platform.**
-
----
-
-### [JARVIS](https://github.com/microsoft/JARVIS)
-
-**JARVIS, a system to connect LLMs with ML community.**
-
----
 
 ## Papers, Courses and Lectures
 
