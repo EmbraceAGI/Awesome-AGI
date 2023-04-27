@@ -40,6 +40,11 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 |[AI-legion](https://github.com/eumemic/ai-legion)|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/ai-legion?style=social)|An LLM-powered autonomous agent platform.|-|
 |[MicroGPT](https://github.com/muellerberndt/micro-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.|-|
 |[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models.|-|
+|[Agent-LLM](https://github.com/Josh-XT/Agent-LLM)|![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)|An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing.| 人工智能自动化平台。https://agent-llm.com/|
+|[loopgpt](https://github.com/farizrahman4u/loopgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social)|Modular Auto-GPT Framework.|模块化Auto-GPT框架.|
+|[AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)|![GitHub Repo stars](https://img.shields.io/github/stars/Dogtiti/AutoGPT-Next-Web?style=social)|Assemble, configure, and deploy autonomous AI Agents in your browser.|一键免费部署你的私人AutoGPT 网页应用.|
+
+
 ## Papers, Courses and Lectures
 
 ### Papers
