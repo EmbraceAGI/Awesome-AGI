@@ -52,6 +52,9 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 - [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)
 
+### Blogs
+- [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)- OpenAI discuss their short-term and long-term plans for achieving AGI.
+
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
