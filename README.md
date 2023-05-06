@@ -15,10 +15,11 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 - [Awesome AGI Resources ](#awesome-agi-resources-)
   - [What is AGI?](#what-is-agi)
   - [Frameworks and Platforms](#frameworks-and-platforms)
-  - [Papers, Courses and Lectures](#papers-courses-and-lectures)
+  - [Papers, Blogs, Courses and Lectures](#papers-blogs-courses-and-lectures)
     - [Papers](#papers)
+    - [Blogs and News](#blogs-and-news)
     - [awesome-agi-cocosci](#awesome-agi-cocosci)
-  - [Websites and Blogs](#websites-and-blogs)
+  - [Websites](#websites)
     - [Online Demo (在线试用)](#online-demo-在线试用)
     - [Generative Agents](#generative-agents)
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
@@ -45,21 +46,22 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 |[AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web)|![GitHub Repo stars](https://img.shields.io/github/stars/Dogtiti/AutoGPT-Next-Web?style=social)|Assemble, configure, and deploy autonomous AI Agents in your browser.|一键免费部署你的私人AutoGPT 网页应用.|
 |[Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API)|![GitHub Repo stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API?style=social)|Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.|众所周知 AGI 项目调用 API 很花钱，这个项目让你免费运行AutoGPT, babyagi 等 AGI 项目！|
 
-## Papers, Courses and Lectures
+## Papers, Blogs, Courses and Lectures
 
 ### Papers
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 - [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)
 
-### Blogs
+### Blogs and News
 - [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)- OpenAI discuss their short-term and long-term plans for achieving AGI.
+- [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452) Google DeepMind CEO Demis Hassabis commenting on building cognitive function within AI at the Journal’s Future of Everything Festival. He cites need to develop artificial general intelligence responsibly. 
 
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-## Websites and Blogs
+## Websites
 
 ### Online Demo (在线试用)
 Easily try Auto-GPT online using the following websites:
