@@ -28,7 +28,7 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 
 ## Frameworks and Platforms
 
-|Name|Stars|Introduction| Notes |
+|Name|Github Stars|Introduction| Notes |
 -|-|-|-
 |[:fire: Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT)|An experimental open-source attempt to make GPT-4 fully autonomous.|-|
 |[Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) |![GitHub Repo stars](https://badgen.net/github/stars/Significant-Gravitas/Auto-GPT-Plugins)|Plugins for Auto-GPT.|-|
