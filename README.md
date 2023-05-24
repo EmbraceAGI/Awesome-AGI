@@ -2,11 +2,6 @@
 
 A curated list of awesome AGI frameworks, software, and resources.
 
-Mirrors:
-
-[![GitHub repo](https://badgen.net/badge/repo-AwesomeAGI-brightgreen.svg?logo=github)](https://github.com/yzfly/Awesome-AGI)
-[![GitLab repo](https://badgen.net/badge/repo-AwesomeAGI-orange.svg?logo=gitlab)](https://gitlab.com/awesomeai/Awesome-AGI)
-
 Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh) 🔥
 
 ## What is AGI?
