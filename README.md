@@ -56,6 +56,7 @@ Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chat
 ### Blogs and News
 - [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)- OpenAI discuss their short-term and long-term plans for achieving AGI.
 - [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452) Google DeepMind CEO Demis Hassabis commenting on building cognitive function within AI at the Journal’s Future of Everything Festival. He cites need to develop artificial general intelligence responsibly. 
+- [Governance of superintelligence](https://openai.com/blog/governance-of-superintelligence)- OpenAI discuss their ideas about the governance of superintelligence, since future AI systems dramatically more capable than even AGI.
 
 ### [awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
 
