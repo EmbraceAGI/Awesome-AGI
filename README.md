@@ -2,7 +2,7 @@
 
 A curated list of awesome AGI frameworks, software, and resources.
 
-Related Resources:  [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh) 🔥
+Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 
 ## What is AGI?
 > Artificial General Intelligence (AGI) refers to advanced AI systems that exhibit human-like cognitive abilities across various tasks and domains. Unlike narrow AI, which excels in specific tasks, AGI aims to encompass learning, reasoning, problem-solving, perception, and natural language understanding. Although AGI remains an ambitious goal, its pursuit has led to numerous AI advancements. The development of AGI holds the potential to revolutionize industries such as healthcare, finance, transportation, and education, while also raising ethical, safety, and societal concerns that must be carefully addressed.
