@@ -55,6 +55,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 - [One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://arxiv.org/abs/2304.06488)
+- [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)
 
 ### Datasets
 
@@ -63,6 +64,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[AGIEval](https://github.com/microsoft/AGIEval) |![GitHub Repo stars](https://badgen.net/github/stars/microsoft/AGIEval)|AGIEval is a human-centric benchmark specifically designed to evaluate the general abilities of foundation models in tasks pertinent to human cognition and problem-solving.|-|
 
 ### Blogs and News
+- [:fire: LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)The potentiality of LLM extends beyond generating well-written copies, stories, essays and programs; it can be framed as a powerful general problem solver.
 - [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond)- OpenAI discuss their short-term and long-term plans for achieving AGI.
 - [Google DeepMind CEO Says Some Form of AGI Possible in a Few Years](https://www.wsj.com/articles/google-deepmind-ceo-says-some-form-of-agi-possible-in-a-few-years-2705f452) Google DeepMind CEO Demis Hassabis commenting on building cognitive function within AI at the Journal’s Future of Everything Festival. He cites need to develop artificial general intelligence responsibly. 
 - [Governance of superintelligence](https://openai.com/blog/governance-of-superintelligence)- OpenAI discuss their ideas about the governance of superintelligence, since future AI systems dramatically more capable than even AGI.
@@ -92,6 +94,7 @@ Stanford/Google researchers just told us how they used AI to make "generative ag
 * [Demo](https://reverie.herokuapp.com/arXiv_Demo/)
 * [Paper](https://arxiv.org/abs/2304.03442)
 * [Twitter](https://twitter.com/nonmayorpete/status/1645355224029356032?s=20)
+* [Code](https://github.com/joonspk-research/generative_agents)
 
 ![generative agents](imgs/gen_agents_diagram_1.jpg)
 
@@ -100,5 +103,3 @@ Stanford/Google researchers just told us how they used AI to make "generative ag
 Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy
 
 ![market](imgs/market_for_ai_agents.jpg)
-
-## Tutorials and Guides
