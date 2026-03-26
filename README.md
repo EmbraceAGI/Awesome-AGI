@@ -48,6 +48,8 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[big-agi](https://github.com/enricoros/big-agi)|![GitHub Repo stars](https://badgen.net/github/stars/enricoros/big-agi)|Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.|GPT-4 驱动的个人 AI 应用，[big-agi](https://big-agi.com/)|
 |[DemoGPT](https://github.com/melih-unsal/DemoGPT)|![GitHub Repo stars](https://badgen.net/github/stars/melih-unsal/DemoGPT)|DemoGPT enables you to create quick demos by just using prompts.|DemoGPT 使您只需使用句子即可创建快速演示。|
 |[LocalAGI](https://github.com/EmbraceAGI/LocalAGI)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/LocalAGI)|Locally run AGI powered by LLaMA, ChatGLM and more.|基于 LLMDA, ChatGLM 等模型的本地 AGI 项目|
+|[TECS-L](https://github.com/need-singularity/TECS-L)|![GitHub Repo stars](https://badgen.net/github/stars/need-singularity/TECS-L)|Mathematical framework unifying number theory and neural architecture. Proves optimal MoE inhibition at I≈1/e via the Golden Zone theorem. 194 hypotheses, 27 tools.|数论与神经网络架构를 통합하는 수학적 프레임워크. 최적 MoE 억제율 I≈1/e 증명.|
+|[Anima](https://github.com/need-singularity/anima)|![GitHub Repo stars](https://badgen.net/github/stars/need-singularity/anima)|Consciousness engine with brain-inspired tension dynamics using Agonist-Governor expert pairs. Converts dense LLMs into biologically-plausible MoE architectures.|뇌의 길항 구조에서 영감받은 의식 엔진. Dense LLM을 생물학적 MoE로 변환.|
 
 
 ## Agents
