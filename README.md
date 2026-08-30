@@ -9,6 +9,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 
 - [Awesome AGI Resources ](#awesome-agi-resources-)
   - [What is AGI?](#what-is-agi)
+  - [2026 Update: Frontier Models & Agent Harnesses](#2026-update-frontier-models--agent-harnesses)
   - [Frameworks and Platforms](#frameworks-and-platforms)
   - [Papers, Blogs, Courses and Lectures](#papers-blogs-courses-and-lectures)
     - [Papers](#papers)
@@ -20,6 +21,38 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
     - [The Marketplace for AI Agents](#the-marketplace-for-ai-agents)
   - [Tutorials and Guides](#tutorials-and-guides)
 
+
+## 2026 Update: Frontier Models & Agent Harnesses
+
+> Refreshed 2026-08. The 2023 "AutoGPT wave" below is kept as history; this is what the field actually runs on now. For a fuller, bilingual list see [Awesome-AGI-Agents](https://github.com/yzfly/Awesome-AGI-Agents) and [awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh).
+
+**Frontier models (2026)**
+
+|Name|Developer|Link|Notes|
+-|-|-|-
+|Claude 5 family (Fable 5 / Opus 5 / Sonnet 5)|Anthropic|[docs](https://platform.claude.com/docs/en/about-claude/models/overview)|Jun–Jul 2026; 1M context, adaptive thinking; Fable 5 is the Mythos-class flagship|
+|GPT-5.6 (Luna / Terra / Sol)|OpenAI|[openai.com](https://openai.com/index/gpt-5-6/)|Jul 2026 three-tier family; Sol is the strongest|
+|Gemini 3.7 Flash / 3.1 Pro|Google DeepMind|[changelog](https://ai.google.dev/gemini-api/docs/changelog)|3.7 Flash GA Aug 2026 as the coding/agent workhorse|
+|DeepSeek-V4 (Pro / Flash)|DeepSeek|[HuggingFace](https://huggingface.co/collections/deepseek-ai/deepseek-v4)|Open weights, 1M context; see [DeepSeek guide](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/DeepSeek.md)|
+|Kimi K3|Moonshot AI|[GitHub](https://github.com/MoonshotAI/Kimi-K3)|Jul 2026 open-weight 2.8T native multimodal agentic model, 1M context|
+|Qwen3.8|Alibaba|[GitHub](https://github.com/QwenLM/Qwen3.8)|Aug 2026, first Qwen-Max-class open release|
+|Llama 4 (Scout / Maverick)|Meta|[developer.meta.com](https://developer.meta.com/ai/models/llama-4/)|Open-weight native multimodal MoE, up to 10M context (Scout)|
+
+**Agent harnesses & autonomous agents (2026)**
+
+|Name|Github Stars|Introduction| Notes |
+-|-|-|-
+|[Claude Code](https://github.com/anthropics/claude-code)|![GitHub Repo stars](https://badgen.net/github/stars/anthropics/claude-code)|Anthropic's terminal agent: plans, edits, runs and verifies code in your repo|Skills, hooks, MCP, subagents|
+|[OpenAI Codex](https://github.com/openai/codex)|![GitHub Repo stars](https://badgen.net/github/stars/openai/codex)|OpenAI's open-source local coding agent CLI|Companion: [codex-security](https://github.com/openai/codex-security)|
+|[deepseek-harness (dsh)](https://github.com/deepseek-ai/deepseek-harness)|![GitHub Repo stars](https://badgen.net/github/stars/deepseek-ai/deepseek-harness)|DeepSeek's official open agent harness — everything is a plugin (models, tools, sandboxes)|Aug 2026; plugin ecosystem: [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)|
+|[Grok Build](https://github.com/xai-org/grok-build)|![GitHub Repo stars](https://badgen.net/github/stars/xai-org/grok-build)|xAI's full-screen TUI coding agent (Rust)|Headless / CI mode, ACP editor embedding|
+|[OpenHands](https://github.com/All-Hands-AI/OpenHands)|![GitHub Repo stars](https://badgen.net/github/stars/All-Hands-AI/OpenHands)|Open platform for autonomous software-engineering agents|formerly OpenDevin|
+|[Hermes Agent](https://github.com/NousResearch/hermes-agent)|![GitHub Repo stars](https://badgen.net/github/stars/NousResearch/hermes-agent)|Nous Research's self-evolving personal agent|—|
+|[OpenClaw](https://github.com/openclaw/openclaw)|![GitHub Repo stars](https://badgen.net/github/stars/openclaw/openclaw)|Self-hosted personal AI assistant reachable from WhatsApp / Telegram / Discord / Slack|—|
+|[OpenWorker](https://github.com/andrewyng/openworker)|![GitHub Repo stars](https://badgen.net/github/stars/andrewyng/openworker)|Andrew Ng's open desktop "AI coworker" that delivers finished work, model-agnostic|—|
+|[MetaGPT](https://github.com/FoundationAgents/MetaGPT)|![GitHub Repo stars](https://badgen.net/github/stars/FoundationAgents/MetaGPT)|Multi-agent software company framework (repo moved to FoundationAgents)|also [OpenManus](https://github.com/FoundationAgents/OpenManus)|
+|[TrueForge](https://github.com/truefoundry/trueforge)|![GitHub Repo stars](https://badgen.net/github/stars/truefoundry/trueforge)|Open agent runtime: model calls, MCP tools, skills, sandbox, approvals, sessions|—|
+|[AgentENV](https://github.com/kvcache-ai/AgentENV)|![GitHub Repo stars](https://badgen.net/github/stars/kvcache-ai/AgentENV)|Large-scale agent environment platform used for Kimi K3 agentic RL|Firecracker microVMs, <50ms resume|
 
 ## Frameworks and Platforms
 
