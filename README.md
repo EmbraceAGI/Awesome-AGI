@@ -53,6 +53,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[MetaGPT](https://github.com/FoundationAgents/MetaGPT)|![GitHub Repo stars](https://badgen.net/github/stars/FoundationAgents/MetaGPT)|Multi-agent software company framework (repo moved to FoundationAgents)|also [OpenManus](https://github.com/FoundationAgents/OpenManus)|
 |[TrueForge](https://github.com/truefoundry/trueforge)|![GitHub Repo stars](https://badgen.net/github/stars/truefoundry/trueforge)|Open agent runtime: model calls, MCP tools, skills, sandbox, approvals, sessions|—|
 |[AgentENV](https://github.com/kvcache-ai/AgentENV)|![GitHub Repo stars](https://badgen.net/github/stars/kvcache-ai/AgentENV)|Large-scale agent environment platform used for Kimi K3 agentic RL|Firecracker microVMs, <50ms resume|
+|[Agent QA](https://github.com/vostride/agent-qa)|![GitHub Repo stars](https://badgen.net/github/stars/vostride/agent-qa)|Application-testing agent and harness that runs natural-language web, Android, and iOS regression journeys and retains steps, screenshots, logs, and results|CLI, MCP, agent skills|
 
 ## Frameworks and Platforms
 
@@ -151,5 +152,4 @@ Stanford/Google researchers just told us how they used AI to make "generative ag
 Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing the gig economy
 
 ![market](imgs/market_for_ai_agents.jpg)
-
 
