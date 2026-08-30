@@ -49,6 +49,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[big-agi](https://github.com/enricoros/big-agi)|![GitHub Repo stars](https://badgen.net/github/stars/enricoros/big-agi)|Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.|GPT-4 驱动的个人 AI 应用，[big-agi](https://big-agi.com/)|
 |[DemoGPT](https://github.com/melih-unsal/DemoGPT)|![GitHub Repo stars](https://badgen.net/github/stars/melih-unsal/DemoGPT)|DemoGPT enables you to create quick demos by just using prompts.|DemoGPT 使您只需使用句子即可创建快速演示。|
 |[LocalAGI](https://github.com/EmbraceAGI/LocalAGI)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/LocalAGI)|Locally run AGI powered by LLaMA, ChatGLM and more.|基于 LLMDA, ChatGLM 等模型的本地 AGI 项目|
+|[Agentfield](https://github.com/Agent-Field/agentfield)|![GitHub Repo stars](https://badgen.net/github/stars/Agent-Field/agentfield)|Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.|AI Agent 分布式部署控制平面|
 
 
 ## Agents
