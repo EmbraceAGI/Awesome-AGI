@@ -153,3 +153,11 @@ Discover Dataleap the Upwork for AI Agents, where AutoGPTs are revolutionizing t
 ![market](imgs/market_for_ai_agents.jpg)
 
 
+
+### [Agientry](https://agientry.com/)
+
+A bilingual (English / Simplified Chinese) directory and editorial site tracking the road to AGI. It indexes the applications built on each frontier model and harness (Claude Code, OpenAI Codex, Figma Make, Suno, Kling, …), keeps official leaderboards in one place, publishes long-form deep reads on frontier models and agent tooling, and hosts playable AI demos.
+
+* [Applications index](https://agientry.com/en/applications/claude-code)
+* [Leaderboards](https://agientry.com/en/leaderboard)
+* [AI demos](https://agientry.com/en/ai-games)
