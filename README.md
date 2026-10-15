@@ -83,8 +83,6 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[DemoGPT](https://github.com/melih-unsal/DemoGPT)|![GitHub Repo stars](https://badgen.net/github/stars/melih-unsal/DemoGPT)|DemoGPT enables you to create quick demos by just using prompts.|DemoGPT 使您只需使用句子即可创建快速演示。|
 |[LocalAGI](https://github.com/EmbraceAGI/LocalAGI)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/LocalAGI)|Locally run AGI powered by LLaMA, ChatGLM and more.|基于 LLMDA, ChatGLM 等模型的本地 AGI 项目|
 |[Agentfield](https://github.com/Agent-Field/agentfield)|![GitHub Repo stars](https://badgen.net/github/stars/Agent-Field/agentfield)|Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.|AI Agent 分布式部署控制平面|
-
-
 |[Bifrost](https://github.com/maximhq/bifrost)|-|Open-source, self-hosted AI gateway for multi-provider routing, load balancing, failover, observability, and OpenAI-compatible APIs.|-|
 
 ## Agents
