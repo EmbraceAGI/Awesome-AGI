@@ -85,7 +85,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[LocalAGI](https://github.com/EmbraceAGI/LocalAGI)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/LocalAGI)|Locally run AGI powered by LLaMA, ChatGLM and more.|基于 LLMDA, ChatGLM 等模型的本地 AGI 项目|
 |[Agentfield](https://github.com/Agent-Field/agentfield)|![GitHub Repo stars](https://badgen.net/github/stars/Agent-Field/agentfield)|Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.|AI Agent 分布式部署控制平面|
 |[Bifrost](https://github.com/maximhq/bifrost)|-|Open-source, self-hosted AI gateway for multi-provider routing, load balancing, failover, observability, and OpenAI-compatible APIs.|-|
-|[Frink](https://github.com/benord-labs/frink)|![GitHub Repo stars](https://badgen.net/github/stars/benord-labs/frink)|Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.|[frink.dev](https://frink.dev)|
+|[Frink](https://github.com/benord-labs/frink)|![GitHub Repo stars](https://badgen.net/github/stars/benord-labs/frink)|Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.|面向所有人的精细化自动化：用可视化工作流让 AI 编程智能体处理工单、报错与定时任务，改动前先征求确认|
 
 ## Agents
 
