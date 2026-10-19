@@ -85,6 +85,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[LocalAGI](https://github.com/EmbraceAGI/LocalAGI)|![GitHub Repo stars](https://badgen.net/github/stars/EmbraceAGI/LocalAGI)|Locally run AGI powered by LLaMA, ChatGLM and more.|基于 LLMDA, ChatGLM 等模型的本地 AGI 项目|
 |[Agentfield](https://github.com/Agent-Field/agentfield)|![GitHub Repo stars](https://badgen.net/github/stars/Agent-Field/agentfield)|Kubernetes-style control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.|AI Agent 分布式部署控制平面|
 |[Bifrost](https://github.com/maximhq/bifrost)|-|Open-source, self-hosted AI gateway for multi-provider routing, load balancing, failover, observability, and OpenAI-compatible APIs.|-|
+|[Aident Loadout](https://aident.ai)|![GitHub Repo stars](https://badgen.net/github/stars/Aident-AI/aident-skill)|Hosted capability layer for AI agents: one remote MCP server, CLI and agent skill that let Claude Code, Codex, Cursor and other MCP clients run actions in connected apps and use 400+ Skills, with credentials kept in a vault and every action recorded in an audit log.|Hosted service (pay-as-you-go); MIT skill repo [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill); [MCP docs](https://docs.aident.ai/loadout/mcp)|
 
 ## Agents
 
