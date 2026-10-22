@@ -54,6 +54,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[TrueForge](https://github.com/truefoundry/trueforge)|![GitHub Repo stars](https://badgen.net/github/stars/truefoundry/trueforge)|Open agent runtime: model calls, MCP tools, skills, sandbox, approvals, sessions|—|
 |[AgentENV](https://github.com/kvcache-ai/AgentENV)|![GitHub Repo stars](https://badgen.net/github/stars/kvcache-ai/AgentENV)|Large-scale agent environment platform used for Kimi K3 agentic RL|Firecracker microVMs, <50ms resume|
 |[Agent QA](https://github.com/vostride/agent-qa)|![GitHub Repo stars](https://badgen.net/github/stars/vostride/agent-qa)|Application-testing agent and harness that runs natural-language web, Android, and iOS regression journeys and retains steps, screenshots, logs, and results|CLI, MCP, agent skills|
+|[Orbi](https://github.com/orbi-build/orbi)|![GitHub Repo stars](https://badgen.net/github/stars/orbi-build/orbi)|Open-source (AGPL-3.0) coding agent that works from labeled GitHub Issues: implements in an isolated worktree, runs tests, opens a PR, and merges after a separate AI review and CI gate|Self-hostable; site: [orbi.build](https://orbi.build/?ref=dir-awesome-agi)|
 
 ## Frameworks and Platforms
 
