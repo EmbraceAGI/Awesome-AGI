@@ -54,6 +54,7 @@ Related Resources:  [LangGPT](https://github.com/yzfly/LangGPT) 🔥
 |[TrueForge](https://github.com/truefoundry/trueforge)|![GitHub Repo stars](https://badgen.net/github/stars/truefoundry/trueforge)|Open agent runtime: model calls, MCP tools, skills, sandbox, approvals, sessions|—|
 |[AgentENV](https://github.com/kvcache-ai/AgentENV)|![GitHub Repo stars](https://badgen.net/github/stars/kvcache-ai/AgentENV)|Large-scale agent environment platform used for Kimi K3 agentic RL|Firecracker microVMs, <50ms resume|
 |[Agent QA](https://github.com/vostride/agent-qa)|![GitHub Repo stars](https://badgen.net/github/stars/vostride/agent-qa)|Application-testing agent and harness that runs natural-language web, Android, and iOS regression journeys and retains steps, screenshots, logs, and results|CLI, MCP, agent skills|
+|[Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents)|![GitHub Repo stars](https://badgen.net/github/stars/maxkxd/extremely-autonomous-agents)|Free, open-source AI agency that runs on your own computer: autonomous agents work on a schedule, build the tools they're missing and only ask you when you choose|Bring your own Claude, ChatGPT or local models; [extremely.agency](https://extremely.agency)|
 
 ## Frameworks and Platforms
 
