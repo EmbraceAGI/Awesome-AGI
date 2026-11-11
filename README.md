@@ -163,3 +163,9 @@ A bilingual (English / Simplified Chinese) directory and editorial site tracking
 * [Applications index](https://agientry.com/en/applications/claude-code)
 * [Leaderboards](https://agientry.com/en/leaderboard)
 * [AI demos](https://agientry.com/en/ai-games)
+
+### [Intelsi](https://intelsi.si/)
+A curated directory of frontier AI and super-intelligence tools, with official-source model release and US policy timelines.
+- Catalog of SI-adjacent tools, labs and research projects
+- Dated 2025–2026 model-release timeline citing official sources
+- US Super Intelligence policy timeline with White House and Federal Register links
